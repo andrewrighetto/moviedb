@@ -1,0 +1,68 @@
+.movie-table
+    padding: 24px 0px 0px 0px
+    opacity: 0
+    @for $i from 1 through 100
+        &:nth-child(#{$i})
+            animation: 
+                name: row-appears
+                duration: 300ms
+                delay: (150ms * $i) - 300
+                timing-function: ease-in-out
+                fill-mode: forwards
+
+
+@keyframes row-appears
+  0%
+      opacity: 0
+      //transform: translateY(-20px)
+  60%
+      opacity: 1
+      //transform: translateY(4px)
+  100%
+      opacity: 1
+      //transform: translateY(0px)
+
+.image-container
+    width: 185px
+    height: 278px
+    position: relative
+
+.spinner
+    text-align: center
+
+.spinner:before
+    content: ""
+    display: block
+    width: 100px
+    height: 100px
+    border: 8px solid #EF767A
+    border-top-color: #EF767A
+    border-bottom-color: #456990
+    border-left-color: transparent
+    border-right-color: transparent
+    position: absolute
+    top: 50%
+    left: 50%
+    margin-top: -50px
+    margin-left: -50px
+    box-sizing: border-box
+    border-radius: 8px
+    animation: 
+        name: spin-spinner
+        duration: 800ms
+        timing-function: ease-in-out
+        fill-mode: forwards
+        iteration-count: infinite
+
+@keyframes spin-spinner
+  0%
+    transform: rotate(0deg)
+    border-radius: 50px
+  100%
+    transform: rotate(360deg)
+    border-radius: 50px
+
+.image-loading
+    width: 185px
+    height: 278px
+    background-color: #f2f2f2

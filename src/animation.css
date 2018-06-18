@@ -1,0 +1,655 @@
+.movie-table {
+  padding: 24px 0px 0px 0px;
+  opacity: 0; }
+  .movie-table:nth-child(1) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: -150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(2) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 0ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(3) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(4) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 300ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(5) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 450ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(6) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 600ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(7) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 750ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(8) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 900ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(9) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1050ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(10) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1200ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(11) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1350ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(12) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1500ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(13) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1650ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(14) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(15) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 1950ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(16) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2100ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(17) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2250ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(18) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2400ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(19) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2550ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(20) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2700ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(21) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 2850ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(22) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3000ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(23) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(24) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3300ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(25) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3450ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(26) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3600ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(27) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3750ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(28) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 3900ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(29) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4050ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(30) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4200ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(31) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4350ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(32) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4500ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(33) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4650ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(34) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(35) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 4950ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(36) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5100ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(37) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5250ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(38) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5400ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(39) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5550ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(40) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5700ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(41) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 5850ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(42) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6000ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(43) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(44) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6300ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(45) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6450ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(46) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6600ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(47) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6750ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(48) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 6900ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(49) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7050ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(50) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7200ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(51) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7350ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(52) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7500ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(53) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7650ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(54) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(55) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 7950ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(56) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8100ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(57) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8250ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(58) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8400ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(59) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8550ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(60) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8700ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(61) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 8850ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(62) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9000ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(63) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(64) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9300ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(65) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9450ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(66) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9600ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(67) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9750ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(68) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 9900ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(69) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10050ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(70) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10200ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(71) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10350ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(72) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10500ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(73) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10650ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(74) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(75) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 10950ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(76) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11100ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(77) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11250ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(78) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11400ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(79) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11550ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(80) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11700ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(81) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 11850ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(82) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12000ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(83) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12150ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(84) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12300ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(85) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12450ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(86) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12600ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(87) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12750ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(88) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 12900ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(89) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13050ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(90) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13200ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(91) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13350ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(92) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13500ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(93) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13650ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(94) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(95) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 13950ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(96) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 14100ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(97) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 14250ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(98) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 14400ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(99) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 14550ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+  .movie-table:nth-child(100) {
+    animation-name: row-appears;
+    animation-duration: 300ms;
+    animation-delay: 14700ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards; }
+
+@keyframes row-appears {
+  0% {
+    opacity: 0; }
+  60% {
+    opacity: 1; }
+  100% {
+    opacity: 1; } }
+
+.image-container {
+  width: 185px;
+  height: 278px;
+  position: relative; }
+
+.spinner {
+  text-align: center; }
+
+.spinner:before {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 100px;
+  border: 8px solid #EF767A;
+  border-top-color: #EF767A;
+  border-bottom-color: #456990;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  animation-name: spin-spinner;
+  animation-duration: 800ms;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite; }
+
+@keyframes spin-spinner {
+  0% {
+    transform: rotate(0deg);
+    border-radius: 50px; }
+  100% {
+    transform: rotate(360deg);
+    border-radius: 50px; } }
+
+.image-loading {
+  width: 185px;
+  height: 278px;
+  background-color: #f2f2f2; }
