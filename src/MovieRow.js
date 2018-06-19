@@ -50,6 +50,7 @@ class MovieRow extends React.Component {
             <h2 className="float-right inline-block">{this.props.movie.year}</h2>
             <hr/>
             <p>{this.props.movie.overview}</p>
+            <p>{this.props.movie.cast[0].name}</p>
           </td>
         </tr>
       </tbody>
